@@ -1,4 +1,61 @@
+/* The CSS sheet to apply with my Project/Resume file*/
 body {
+    background-color: #AF76C5;
+    padding: 0px;
+    margin: 0px;
+}
+header {
+    border-top: 8px solid black;
+    border-bottom: 2px solid black;
+}
+header, section, footer, header h1 {
+    padding: 10px;
+}
+h1 {
+    font-weight: bold;
+    font-size: 2.5em;
+}
+header h1, section {
+    background-color: #4E0F72;
+    color: #B9AFBE;
+    border-top: 2px solid #B9AFBE;
+    border-bottom: 2px solid #B9AFBE;
+}
+#quote {
+    font-weight: lighter;
+    font-style: Italic;
+}
+article {
+
+}
+p {
+
+}
+.personal {
+    font-family: serif;
+}
+section {
+    
+}
+section article {
+
+}
+h2 {
+    font-decoration: underline;
+}
+ul {
+
+}
+.class {
+
+}
+li {
+
+}
+footer {
+    border-top: 2px solid black;
+}
+a {
 
 }
 
