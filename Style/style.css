@@ -9,7 +9,8 @@ header {
     border-bottom: 2px solid black;
 }
 header, section, footer, header h1 {
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 h1 {
     font-weight: bold;
@@ -41,16 +42,20 @@ section article {
 
 }
 h2 {
-    font-decoration: underline;
+    
 }
 ul {
-
-}
-.class {
-
+    background-color: #4E0F72;
+    width: 100%;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 2px;
+    display: block;
 }
 li {
-
+    padding: 4px;
+    position: center; 
+    display: inline-block;
 }
 footer {
     border-top: 2px solid black;
